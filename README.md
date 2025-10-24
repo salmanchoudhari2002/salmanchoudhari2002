@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 
-<h1 align="center">Hi 👋, I'm Salman Choudhari</h1>
+<h1 align="center">ʜɪ 👋, ɪ'ᴍ sᴀʟᴍᴀɴ ᴄʜᴏᴜᴅʜᴀʀɪ</h1>
 
 <h3 align="center">I'ᴍ ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ DᴇᴠOᴘs, Cʟᴏᴜᴅ, ᴀɴᴅ Aɪ ᴇɴᴛʜᴜsɪᴀsᴛ ғʀᴏᴍ Iɴᴅɪᴀ. I ʟᴏᴠᴇ ʙᴜɪʟᴅɪɴɢ sᴄᴀʟᴀʙʟᴇ, ᴀᴜᴛᴏᴍᴀᴛᴇᴅ, ᴀɴᴅ ɪɴᴛᴇʟʟɪɢᴇɴᴛ sʏsᴛᴇᴍs ᴛʜᴀᴛ ᴘᴏᴡᴇʀ ʀᴇᴀʟ-ᴡᴏʀʟᴅ ɪɴɴᴏᴠᴀᴛɪᴏɴ. Wɪᴛʜ ᴀ sᴛʀᴏɴɢ ғᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ, ɪɴғʀᴀsᴛʀᴜᴄᴛᴜʀᴇ, ᴀɴᴅ ᴄʟᴏᴜᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs, I sᴛʀɪᴠᴇ ᴛᴏ ᴄʀᴇᴀᴛᴇ sᴇᴀᴍʟᴇss, ᴇғғɪᴄɪᴇɴᴛ, ᴀɴᴅ ʜɪɢʜ-ᴘᴇʀғᴏʀᴍɪɴɢ sᴏʟᴜᴛɪᴏɴs.</h3>
 
@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Cloud Infrastructure Automation Projects**  
-- 🌱 I’m currently learning **Kubernetes, Terraform, and LLM**  
-- 💬 Ask me about **DevOps, Cloud Computing, or Artificial Intelligence**  
-- 📫 How to reach me **salmanac1000@gmail.com**  
-- ⚡ Fun fact **I believe automation makes life easier and the cloud makes it infinite! ☁️**  
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴄʟᴏᴜᴅ ɪɴғʀᴀsᴛʀᴜᴄᴛᴜʀᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴘʀᴏᴊᴇᴄᴛs  
+- 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴋᴜʙᴇʀɴᴇᴛᴇs, ᴛᴇʀʀᴀғᴏʀᴍ, ᴀɴᴅ ʟʟᴍ  
+- 💬 ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴅᴇᴠᴏᴘs, ᴄʟᴏᴜᴅ ᴄᴏᴍᴘᴜᴛɪɴɢ, ᴏʀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ  
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ sᴀʟᴍᴀɴᴀᴄ1000@ɢᴍᴀɪʟ.ᴄᴏᴍ  
+- ⚡ ғᴜɴ ғᴀᴄᴛ ɪ ʙᴇʟɪᴇᴠᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴍᴀᴋᴇs ʟɪғᴇ ᴇᴀsɪᴇʀ ᴀɴᴅ ᴛʜᴇ ᴄʟᴏᴜᴅ ᴍᴀᴋᴇs ɪᴛ ɪɴғɪɴɪᴛᴇ! ☁️ 
 
 ---
 
