@@ -1,8 +1,23 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="Footer"/>
+
+  </br>
+  **Star repositories if you find them interesting!**
+  </br>
+  </br>
+
+  <img src="https://komarev.com/ghpvc/?username=adilhusain01&style=for-the-badge&color=0D1117" alt="Profile Views"/>
+</div>
+
+---
+
 # 💫 Hi 👋, I'm Salman Choudhari  
 **A Passionate DevOps & Cloud Enthusiast | Final Year Computer Science Engineer | Lifelong Learner 🚀**
 
-📧 **Email Me:** [salmanac1000@gmail.com]  
-💬 **Ask me about:** Cloud, DevOps, or anything tech-related!  
+📧 **Email Me:** [salmanac1000@gmail.com](mailto:salmanac1000@gmail.com)  
+💬 **Ask me about:** Cloud ☁️, DevOps ⚙️, or anything tech-related!  
 😄 **Call me:** Salman  
 ⚡ **Fun fact:** I believe *automation makes life easier* and *cloud makes it scalable!* ☁️  
 
@@ -12,7 +27,7 @@
 I'm a **Final Year Computer Science Engineering student** passionate about **Cloud Computing, DevOps, and Automation**.  
 I love exploring tools and technologies that help bridge the gap between development and operations.  
 
-Here’s a fun way to know me:  
+Here’s a fun way to know me 👇  
 
 ```javascript
 const salman = {
@@ -23,7 +38,7 @@ const salman = {
 };
 ```
 
-🌱 **What I'm Doing**  
+### 🌱 What I'm Doing  
 - 🔭 Currently working on: Building Cloud Projects using AWS and Docker  
 - 🌱 Currently learning: Kubernetes, Terraform, and Jenkins  
 - 👯 Looking to collaborate on: Cloud and DevOps Projects  
@@ -67,8 +82,8 @@ const salman = {
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=salmanchoudhari2002&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=salmanchoudhari2002&theme=midnight-purple&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=salmanchoudhari2002&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=salmanchoudhari2002&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanchoudhari2002&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
@@ -93,3 +108,18 @@ const salman = {
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="Footer"/>
+
+  </br>
+  **Star repositories if you find them interesting!**
+  </br>
+  </br>
+
+  <img src="https://komarev.com/ghpvc/?username=adilhusain01&style=for-the-badge&color=0D1117" alt="Profile Views"/>
+</div>
