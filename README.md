@@ -3,22 +3,19 @@
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
   <br>
 
-  # DevOps, AI/ML, and Data Science Enthusiast
+  # DevOps and Cloud Enthusiast
 
-  Welcome to my GitHub! I'm **Salman Choudhari**, a highly adaptable Computer Science and Engineering graduate with a deep passion for **DevOps**, **Cloud**, **Artificial Intelligence/Machine Learning**, and **Data Science**.  
+  Welcome to my GitHub! I'm **Salman Choudhari**, a highly adaptable Computer Science and Engineering graduate with a strong passion for **DevOps** and **Cloud Computing**.  
 
-  My expertise spans end-to-end technical ecosystems — from **building and automating infrastructure** to **designing intelligent models** that solve real-world challenges. I thrive on **continuous learning**, **innovation**, and **mentoring others** to grow together in the tech community.  
+  I specialize in automating workflows, optimizing deployments, and managing scalable infrastructure across modern cloud platforms.  
+  My goal is to build reliable, efficient, and high-performance systems using the latest DevOps tools and cloud technologies.  
 
-  With hands-on experience across **DevOps tools**, **cloud environments**, and **data-driven development**, I aim to contribute to **forward-thinking teams** and create scalable, impactful solutions.  
+  I believe in **continuous learning**, **innovation**, and sharing knowledge with others to grow together in the tech community.  
 
   ---
 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="Footer"/>
-
   </br>
-  **Star repositories if you find them interesting!**
+  **⭐ Star repositories if you find them interesting!**
   </br>
   </br>
 
@@ -131,8 +128,9 @@ const salman = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="Footer"/>
 
   </br>
-  **Star repositories if you find them interesting!**
+  **⭐ Star repositories if you find them interesting!**
   </br>
   </br>
 
-  <img src="https://komarev.com/ghpvc/?userna
+  <img src="https://komarev.com/ghpvc/?username=salmanchoudhari2002&style=for-the-badge&color=0D1117" alt="Profile Views"/>
+</div>
