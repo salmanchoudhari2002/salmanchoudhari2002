@@ -91,21 +91,8 @@ const salman = {
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=salmanchoudhari2002&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=salmanchoudhari2002&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanchoudhari2002&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salmanchoudhari2002&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
