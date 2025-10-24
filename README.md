@@ -1,4 +1,18 @@
 <div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
+  <br>
+
+  # DevOps, AI/ML, and Data Science Enthusiast
+
+  Welcome to my GitHub! I'm **Salman Choudhari**, a highly adaptable Computer Science and Engineering graduate with a deep passion for **DevOps**, **Cloud**, **Artificial Intelligence/Machine Learning**, and **Data Science**.  
+
+  My expertise spans end-to-end technical ecosystems — from **building and automating infrastructure** to **designing intelligent models** that solve real-world challenges. I thrive on **continuous learning**, **innovation**, and **mentoring others** to grow together in the tech community.  
+
+  With hands-on experience across **DevOps tools**, **cloud environments**, and **data-driven development**, I aim to contribute to **forward-thinking teams** and create scalable, impactful solutions.  
+
+  ---
+
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="Footer"/>
@@ -8,7 +22,7 @@
   </br>
   </br>
 
-  <img src="https://komarev.com/ghpvc/?username=adilhusain01&style=for-the-badge&color=0D1117" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=salmanchoudhari2002&style=for-the-badge&color=0D1117" alt="Profile Views"/>
 </div>
 
 ---
@@ -121,5 +135,4 @@ const salman = {
   </br>
   </br>
 
-  <img src="https://komarev.com/ghpvc/?username=adilhusain01&style=for-the-badge&color=0D1117" alt="Profile Views"/>
-</div>
+  <img src="https://komarev.com/ghpvc/?userna
