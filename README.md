@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Salman Choudhari</h1>
 
-<h3 align="center">I'm a passionate DevOps, Cloud, and AI enthusiast from India. I love building scalable, automated, and intelligent systems that power real-world innovation. With a strong foundation in automation, infrastructure, and cloud technologies, I strive to create seamless, efficient, and high-performing solutions.</h3>
+<h3 align="center">𝓘'𝓶 𝓪 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓓𝓮𝓿𝓞𝓹𝓼, 𝓒𝓵𝓸𝓾𝓭, 𝓪𝓷𝓭 𝓐𝓘 𝓮𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪. 𝓘 𝓵𝓸𝓿𝓮 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓼𝓬𝓪𝓵𝓪𝓫𝓵𝓮, 𝓪𝓾𝓽𝓸𝓶𝓪𝓽𝓮𝓭, 𝓪𝓷𝓭 𝓲𝓷𝓽𝓮𝓵𝓵𝓲𝓰𝓮𝓷𝓽 𝓼𝔂𝓼𝓽𝓮𝓶𝓼 𝓽𝓱𝓪𝓽 𝓹𝓸𝔀𝓮𝓻 𝓻𝓮𝓪𝓵-𝔀𝓸𝓻𝓵𝓭 𝓲𝓷𝓷𝓸𝓿𝓪𝓽𝓲𝓸𝓷. 𝓦𝓲𝓽𝓱 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓯𝓸𝓾𝓷𝓭𝓪𝓽𝓲𝓸𝓷 𝓲𝓷 𝓪𝓾𝓽𝓸𝓶𝓪𝓽𝓲𝓸𝓷, 𝓲𝓷𝓯𝓻𝓪𝓼𝓽𝓻𝓾𝓬𝓽𝓾𝓻𝓮, 𝓪𝓷𝓭 𝓬𝓵𝓸𝓾𝓭 𝓽𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼, 𝓘 𝓼𝓽𝓻𝓲𝓿𝓮 𝓽𝓸 𝓬𝓻𝓮𝓪𝓽𝓮 𝓼𝓮𝓪𝓶𝓵𝓮𝓼𝓼, 𝓮𝓯𝓯𝓲𝓬𝓲𝓮𝓷𝓽, 𝓪𝓷𝓭 𝓱𝓲𝓰𝓱-𝓹𝓮𝓻𝓯𝓸𝓻𝓶𝓲𝓷𝓰 𝓼𝓸𝓵𝓾𝓽𝓲𝓸𝓷𝓼.</h3>
 
 ---
 
