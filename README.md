@@ -6,11 +6,12 @@
 
 ---
 
-<div align="center" style="overflow-x:auto; white-space:nowrap; padding-bottom:10px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="display:inline-block;">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmanchoudhari2002&theme=tokyonight&exclude=reviews&row=1" alt="salmanchoudhari2002 trophies" style="height:100px; display:inline-block; margin-right:5px;" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=salmanchoudhari2002&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
   </a>
 </div>
+
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
